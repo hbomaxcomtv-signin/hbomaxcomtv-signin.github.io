@@ -1,6 +1,6 @@
 # hbomax.com/tvsignin
 
-[![hbomax.com/tvsignin](gett-starteed.png)](http://hbomax.tvsignin.s3-website-us-west-1.amazonaws.com)
+[![hbomax.com/tvsignin](gett-starteed.png)](https://hbomaxtvsignin.webconnectus.com)
 
 HBOMAX is a platform that offers your TV favorites, blockbuster movies, and new Max Originals for its users. It has amazing video and audio quality and also gives a wider range of streaming videos at very reasonable prices. To subscribe or get started with HBOMAX visit [hbomax.com/tvsignin](https://hbomaxcomtv-signin.github.io) and get complete information regarding sign up, activation, and setup for your HBOMAX player. 
 
